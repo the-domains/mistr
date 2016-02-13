@@ -1,0 +1,14 @@
+layout_spectrum: 0.3040841
+typography_spectrum: 0.3872573
+color:
+  saturation: 0.3887042
+  lightness: 0.9334122
+  brandStrength: 0.8080873
+  rhythmicContrast: 0.9439027
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+name: mistr
